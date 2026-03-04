@@ -11,4 +11,4 @@ Outside of coding, I'm interested in tech trends, creative communities, and expl
 #### Let's connect!
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/abbgoesghost/)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://ml.linkedin.com/in/aboubacar-dabo-662a23376)
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=GitHub&logoColor=white" />](https://medium.com/@abbgoesghost)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@abbgoesghost)
